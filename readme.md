@@ -1,5 +1,6 @@
-This is experimental of Load Balancer Level 4
+This is experimental showing Load Balancer Level 4 & Load Balancer Level 7
 
+# Layer 4 set up
 Installation
 ```
 brew install haproxy
